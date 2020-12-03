@@ -1,0 +1,1 @@
+const musique = document.querySelector('.musique');
